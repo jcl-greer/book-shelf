@@ -13,5 +13,5 @@ also a sort button that allows users to organize books alphabetically, as well a
 I used Core Data functionality so that user selections persist across tab switches and the closing/reopening of the app. 
 
 
-![Screenshot of Cool Books App]()
+![Screenshot of Cool Books App](final_proj_screenshot.png)
 
