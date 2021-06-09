@@ -1,0 +1,3 @@
+[submodule "angry-birds"]
+	path = angry-birds
+	url = https://github.com/jcl-greer/angry-birds.git
